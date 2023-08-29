@@ -1,0 +1,5 @@
+streamlit~=1.26.0
+matplotlib~=3.7.1
+numpy~=1.24.2
+sympy~=1.12
+torch~=2.0.1
