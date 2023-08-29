@@ -1,5 +1,5 @@
 # mbmapp
-This is a streamlit app, [mbmapp](https://shill1729..../), a tool to aid in visualizing Brownian motions
+This is a streamlit app, [mbmapp](https://manifold-brownian-motion.streamlit.app/), a tool to aid in visualizing Brownian motions
 on Riemannian manifolds.
 
 The user can supply coordinates $x,y$ a chart,
